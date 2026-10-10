@@ -1,0 +1,21 @@
+{
+  "artifact_id": "a8d82a0f033b4092",
+  "created_at": "2026-10-10T13:11:10.417255+00:00",
+  "project_name": "NORA_Compose_Ejemplo",
+  "project_type": "ANDROID_KOTLIN_NEXUS",
+  "technology": "Android / Kotlin / Jetpack Compose / Gradle",
+  "template": "COMPOSE_LAB",
+  "mode": "EXAMPLE",
+  "class_session": {
+    "course": "Desarrollo de aplicaciones móviles",
+    "section": "002",
+    "class_date": "2026-10-10",
+    "started_at": "2026-10-10T03:48:30.219011+00:00"
+  },
+  "nexus_base_url": "http://192.168.137.79:8081",
+  "versions": {
+    "gradle": "8.13",
+    "agp": "8.13.2",
+    "kotlin": "2.0.21"
+  }
+}

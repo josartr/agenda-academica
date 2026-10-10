@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "cl.nora.composelab.app-mergeDebugResources-51:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\NORA_Compose_Ejemplo\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "263"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "218"
+                    }
+                }
+            ]
+        }
+    ]
+}
