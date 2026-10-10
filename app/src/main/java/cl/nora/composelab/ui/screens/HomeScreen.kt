@@ -18,8 +18,7 @@ import androidx.compose.ui.unit.dp
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun HomeScreen() {
-
+fun HomeScreen(onVerDetalle: () -> Unit) {
 
     Scaffold(
         topBar = {
@@ -40,7 +39,7 @@ fun HomeScreen() {
                 nombre = "Desarrollo de Aplicaciones Móviles",
                 sala = "304",
                 horario = "10:00 - 12:10",
-                onVerDetalle = { }
+                onVerDetalle = onVerDetalle
             )
         }
     }

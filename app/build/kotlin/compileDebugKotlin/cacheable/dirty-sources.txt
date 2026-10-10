@@ -1,0 +1,5 @@
+D:\NORA_Compose_Ejemplo\app\src\main\java\cl\nora\composelab\MainActivity.kt
+D:\NORA_Compose_Ejemplo\app\src\main\java\cl\nora\composelab\navigation\AppNavigation.kt
+D:\NORA_Compose_Ejemplo\app\src\main\java\cl\nora\composelab\model\Asignatura.kt
+D:\NORA_Compose_Ejemplo\app\src\main\java\cl\nora\composelab\ui\screens\HomeScreen.kt
+D:\NORA_Compose_Ejemplo\app\src\main\java\cl\nora\composelab\ui\screens\DetailScreen.kt
